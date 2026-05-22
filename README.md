@@ -1,0 +1,3 @@
+# PostHub
+
+PostHub is a small demo app built to learn backend web development; it implements basic CRUD for posts (create with image upload, read/view the feed, update captions/images, and delete) with a Node.js/Express backend, MongoDB (Mongoose) persistence, ImageKit for image storage, and a React + Vite frontend — useful for exploring REST endpoints, multipart file handling, and end-to-end client/server integration.
